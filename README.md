@@ -1,21 +1,14 @@
 # Hi, I'm Muhammad Nabil ,
 
-Computer Science Student 
+Final Year of BSc (Hons) Computer Science 
 
 ## About me
-- Studying: Computer Science , UiTM
+- Studying: BSc (Hons) Computer Science , UiTM
 - Currently learning: AI and Deep learning 
-- My FYP area: Image Processing 
+- My Final Year Project area: Image Processing 
 
 ## Skills and tools
--Java 
--HTML 
--PHP
--SQL
--CSS
--Netbeans 
--VS Studio Code 
--Oracle DB 
+Java ,HTML ,PHP ,SQL ,CSS ,Netbeans ,VS Studio Code ,Oracle DB 
 
 ## Projects
 - [Project name](link-to-your-repository): one sentence about it
