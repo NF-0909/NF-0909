@@ -4,15 +4,15 @@ Final Year of BSc (Hons) Computer Science
 
 ## About me
 - Studying: BSc (Hons) Computer Science , UiTM
-- Currently learning: AI and Deep learning 
+- Currently learning: Algorithm and Deep learning 
 - My Final Year Project area: Image Processing 
 
 ## Skills and tools
 Java ,HTML ,PHP ,SQL ,CSS ,Netbeans ,VS Studio Code ,Oracle DB 
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+1. Timber Board Grading Defect Detection (https://github.com/NF-0909/Timber-Board-Grading-Defect-Detection-)
+  - A system that evaluate timber into grades based on defects that are detected using image processing that utilize deep learning methods  
 
 ## Contact
-- LinkedIn: [your profile link]
-- Email: [a professional email address]
+- Email: nabilfauzan0909@gmail.com 
